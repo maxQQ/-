@@ -1,0 +1,10 @@
+<view class="getPhoneNumber_box" wx:if="{{!getphone}}">
+  <view class="b1">
+    <view class="b1_1">需要您的授权</view>
+    <view class="b1_2">
+      <view>为了提供更好的服务</view>
+      <view>请在稍后的提示框中点击“允许”</view>
+    </view>
+    <button open-type="getPhoneNumber" bindgetphonenumber="getPhoneNumber">授权登录</button>
+  </view>
+</view>

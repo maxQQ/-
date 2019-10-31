@@ -1,0 +1,6 @@
+<view class="chat">
+<view class='a001'>
+<button  class='b002'  open-type="contact"> </button>
+ <image class='b001'  src='../../images/kf.png'></image>
+</view>
+</view>
